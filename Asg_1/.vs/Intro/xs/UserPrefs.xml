@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{10B30632-CDF6-A7B3-8F13-950BE6C12BA3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Light_Controller.cs">
+    <Files>
+      <File FileName="Assets/Shaders/OutputTexture.shader" Line="46" Column="59" />
+      <File FileName="Assets/PingPong_CellularAutomata.cs" Line="10" Column="25" />
+      <File FileName="Assets/Shaders/RenderToTexture_CA.shader" Line="91" Column="56" />
+      <File FileName="Assets/plane_controller.cs" Line="16" Column="82" />
+      <File FileName="Assets/Light_Controller.cs" Line="7" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
